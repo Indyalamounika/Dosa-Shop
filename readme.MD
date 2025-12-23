@@ -13,3 +13,4 @@
 # egg dosa
 * dosa batter
 * egg and karam
+* egg masala
