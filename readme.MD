@@ -12,7 +12,6 @@
 
 ## egg-dosa
 * dosa batter
-<<<<<<< HEAD
 * 2 eggs and karanm
 
 ## egg-masala-dosa
@@ -22,4 +21,4 @@
 ## ghee-karam
 * dosa batter
 * karam 
-
+* ghee
