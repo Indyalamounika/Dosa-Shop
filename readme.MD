@@ -18,4 +18,9 @@
 * light oil
 * egg amd masala
 
+## mashroom-dosa
+* dosa batter
+* mashroom masala
+* oil
+
 
